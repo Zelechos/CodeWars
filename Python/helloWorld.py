@@ -1,0 +1,1 @@
+print("Argus Aphocraphex\n"*9)

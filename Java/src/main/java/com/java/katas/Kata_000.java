@@ -1,5 +1,12 @@
 package com.java.katas;
 
+/**
+ * Katas
+ *
+ * @author Alex T.H.
+ * @version v0.0.2
+ * @since 21.0.0 2024-08-23
+ */
 public class Kata_000 {
 
     public static void main(String[] args) {
